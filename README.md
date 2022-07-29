@@ -7,7 +7,7 @@ Friday 29th July 2022
 Sample project - I have not attended the Python course.
 
 ### Description
-As I have not attended the Python course I have not done the Bikeshare project so ths is sample text. 
+As I have not attended the Python course, I have not done the Bikeshare project so ths is sample text. 
 
 ### Files used
 Example files created but are of no value:
@@ -17,4 +17,4 @@ data/two.csv
 data/three.csv
 
 ### Credits
-Forker from: udacity/pdsnd_github
+Forked from: udacity/pdsnd_github

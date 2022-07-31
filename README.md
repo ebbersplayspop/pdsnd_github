@@ -8,6 +8,7 @@ Sample project - I have not attended the Python course.
 
 ### Description
 As I have not attended the Python course, I have not done the Bikeshare project so ths is sample text. 
+This is an update to the README to provide a more detailed commit message.
 
 ### Files used
 Example files created but are of no value:
